@@ -6,3 +6,9 @@ ingredients
 -salt
 -onion
 -garlic
+
+directions
+-cut up tomatoes, cilantro, onion and garlic
+-mash avocado
+-juice lime
+-mix everything together with salt
