@@ -1,5 +1,8 @@
 ingredients
 -tomatoes
 -cilantro
--lemon
+-lime
 -avocado
+-salt
+-onion
+-garlic
