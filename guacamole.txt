@@ -5,8 +5,8 @@ ingredients
 -avocado
 -salt
 -onion
--garlical;thecjal
-apwoithio
+-garlic
+
 directions
 -cut up tomatoes, cilantro, onion and garlic
 -mash avocado
